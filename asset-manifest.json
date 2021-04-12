@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hw18-React-Class-Components/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hw18-React-Class-Components/static/js/main.4241afb7.chunk.js",
+    "main.js.map": "/hw18-React-Class-Components/static/js/main.4241afb7.chunk.js.map",
+    "runtime-main.js": "/hw18-React-Class-Components/static/js/runtime-main.cc9f9f3d.js",
+    "runtime-main.js.map": "/hw18-React-Class-Components/static/js/runtime-main.cc9f9f3d.js.map",
+    "static/js/2.cd115145.chunk.js": "/hw18-React-Class-Components/static/js/2.cd115145.chunk.js",
+    "static/js/2.cd115145.chunk.js.map": "/hw18-React-Class-Components/static/js/2.cd115145.chunk.js.map",
+    "static/js/3.e237c83d.chunk.js": "/hw18-React-Class-Components/static/js/3.e237c83d.chunk.js",
+    "static/js/3.e237c83d.chunk.js.map": "/hw18-React-Class-Components/static/js/3.e237c83d.chunk.js.map",
+    "index.html": "/hw18-React-Class-Components/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hw18-React-Class-Components/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cd115145.chunk.js.LICENSE.txt": "/hw18-React-Class-Components/static/js/2.cd115145.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hw18-React-Class-Components/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc9f9f3d.js",
+    "static/js/2.cd115145.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4241afb7.chunk.js"
+  ]
+}
