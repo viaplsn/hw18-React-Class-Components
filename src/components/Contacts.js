@@ -46,11 +46,7 @@ class Contacts extends Component {
                 const contactFirstName = obj.firstName.toLowerCase().includes(this.state.search.toLowerCase());
                 const contactLastName = obj.lastName.toLowerCase().includes(this.state.search.toLowerCase());
                 const contactPhone = obj.phone.toLowerCase().includes(this.state.search.toLowerCase());
-                if(contactFirstName || contactLastName || contactPhone) {
-                    return true
-                } else {
-                    return false
-                }
+                return contactFirstName || contactLastName || contactPhone;
             })
             if(this.state.search.length < 1) {
                 this.setState({contacts: contacts})
