@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hw18-React-Class-Components/static/css/main.490d9904.chunk.css",
-    "main.js": "/hw18-React-Class-Components/static/js/main.23794931.chunk.js",
-    "main.js.map": "/hw18-React-Class-Components/static/js/main.23794931.chunk.js.map",
+    "main.css": "/hw18-React-Class-Components/static/css/main.62cef4cc.chunk.css",
+    "main.js": "/hw18-React-Class-Components/static/js/main.c1a174b2.chunk.js",
+    "main.js.map": "/hw18-React-Class-Components/static/js/main.c1a174b2.chunk.js.map",
     "runtime-main.js": "/hw18-React-Class-Components/static/js/runtime-main.37d34295.js",
     "runtime-main.js.map": "/hw18-React-Class-Components/static/js/runtime-main.37d34295.js.map",
     "static/js/2.c54dd7d4.chunk.js": "/hw18-React-Class-Components/static/js/2.c54dd7d4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.79302177.chunk.js": "/hw18-React-Class-Components/static/js/3.79302177.chunk.js",
     "static/js/3.79302177.chunk.js.map": "/hw18-React-Class-Components/static/js/3.79302177.chunk.js.map",
     "index.html": "/hw18-React-Class-Components/index.html",
-    "static/css/main.490d9904.chunk.css.map": "/hw18-React-Class-Components/static/css/main.490d9904.chunk.css.map",
+    "static/css/main.62cef4cc.chunk.css.map": "/hw18-React-Class-Components/static/css/main.62cef4cc.chunk.css.map",
     "static/js/2.c54dd7d4.chunk.js.LICENSE.txt": "/hw18-React-Class-Components/static/js/2.c54dd7d4.chunk.js.LICENSE.txt",
     "static/media/man-icon.9cde111f.svg": "/hw18-React-Class-Components/static/media/man-icon.9cde111f.svg",
     "static/media/woman-icon.2504e977.svg": "/hw18-React-Class-Components/static/media/woman-icon.2504e977.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.37d34295.js",
     "static/js/2.c54dd7d4.chunk.js",
-    "static/css/main.490d9904.chunk.css",
-    "static/js/main.23794931.chunk.js"
+    "static/css/main.62cef4cc.chunk.css",
+    "static/js/main.c1a174b2.chunk.js"
   ]
 }
